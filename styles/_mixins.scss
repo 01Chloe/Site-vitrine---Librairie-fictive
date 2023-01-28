@@ -1,0 +1,8 @@
+@mixin pagesInit{
+     display: block;
+     animation: bookAnim 0.4s ease-out;
+}
+@mixin pagesLittle{
+     margin-left: 0;
+     width: 100%;
+}
